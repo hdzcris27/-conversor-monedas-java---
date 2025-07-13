@@ -57,7 +57,7 @@ Este proyecto fue desarrollado como parte del programa **ONE (Oracle Next Educat
 
 ## ✍️ Autor
 
-Desarrollado por **Christian**  
+Desarrollado por **Christian Hernández**  
 Programa ONE - Oracle Next Education - Fase 1 al 11  
 Julio 2025  
 Ubicación: Jiutepec, Morelos, México 🇲🇽
